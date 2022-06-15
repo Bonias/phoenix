@@ -118,6 +118,7 @@ defmodule Phoenix do
     _ = Phoenix.Template.engines()
     _ = Phoenix.Template.engines()
     _ = Phoenix.Template.engines()
+    _ = Phoenix.Template.engines()
     _ = Phoenix.Template.format_encoder("index.html")
     warn_on_missing_json_library()
 
