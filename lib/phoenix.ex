@@ -1,5 +1,6 @@
 defmodule Phoenix do
-  @moduledoc """
+
+@moduledoc """
   This is the documentation for the Phoenix project.
 
   By default, Phoenix applications depend on the following packages
